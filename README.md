@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node<br>👯 I’m looking to collaborate on - WebDev projects<br>🤝 I’m looking for help with -  DSA<br>🌱 I’m currently learning - Java
+🔭 I’m currently working on Node<br>👯 I’m looking to collaborate on - Web Development projects<br>🤝I am currently practicing Data Structures and Algorithms<br>🌱 I’m currently learning - Java
 
 
 ## 🌐 Socials:
