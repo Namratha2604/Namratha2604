@@ -15,5 +15,8 @@
 ## 📊 Contribution Graph
 [![Gunda's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Namratha2604&theme=github-dark)](https://github.com/Namratha2604)
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Namratha2604&theme=darkhub&no-frame=false&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
