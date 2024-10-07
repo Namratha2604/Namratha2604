@@ -20,3 +20,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## Watch snake eating my github contributions
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Namratha2604/Namratha2604/output/snake.svg" />
+
